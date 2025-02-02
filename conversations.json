@@ -1,0 +1,22 @@
+[
+    {
+        "user_input": "hello",
+        "bot_response": "Hello!  To help you, I need to know which area you're interested in: education, healthcare, housing, agriculture, business loans, employment, social security, women & child welfare, senior citizens, or disability assistance?  Please specify your area of interest."
+    },
+    {
+        "user_input": "flat tyre",
+        "bot_response": "I apologize, but \"flat tyre\" is not related to any Indian government welfare scheme.  My expertise is limited to government programs.  To receive relevant information, please ask about a specific scheme or welfare category (e.g., \"housing assistance,\" \"education scholarships\")."
+    },
+    {
+        "user_input": "hello",
+        "bot_response": "Hello!  I'm here to help with your roadside assistance needs.  Please describe your vehicle problem so I can assist you."
+    },
+    {
+        "user_input": "I have an issue with the flat tyre m can you please guide me",
+        "bot_response": "Problem Description: Flat tire\n\n\n\nSeverity:\n Medium (can be driven short distances slowly, but needs immediate attention)\n\nSteps to Fix the Issue:\n\n1. Safety First: Pull over to a safe location away from traffic. Turn on hazard lights.\n2. Engage Parking Brake: Securely engage your parking brake.\n3. Gather Supplies: Locate your spare tire, jack, lug wrench, and owner's manual (for specific instructions for your vehicle).  Wear gloves if available.\n4. Loosen Lug Nuts:  Slightly loosen the lug nuts on the flat tire using the lug wrench before jacking up the vehicle.  This prevents them from spinning when the tire is off the ground.\n5. Jack Up Vehicle: Place the jack under the designated jack point (consult your owner's manual). Carefully raise the vehicle until the flat tire is a few inches off the ground.\n6. Remove Flat Tire: Unscrew the lug nuts completely and remove the flat tire.\n7. Mount Spare Tire: Mount the spare tire onto the wheel studs, ensuring it's properly seated.\n8. Tighten Lug Nuts: Tighten the lug nuts by hand, then lower the vehicle slowly using the jack.\n9. Fully Tighten Lug Nuts: Once the vehicle is on the ground, fully tighten the lug nuts using the lug wrench in a star pattern (opposite nuts).\n10. Secure Flat Tire: Securely store the flat tire and tools.\n11. Check Tire Pressure: Check the pressure of the spare tire and inflate if necessary.\n\nWarnings & Safety Measures:\n\n Never work on a vehicle in traffic.\n Ensure the vehicle is on a level surface.\n Use wheel chocks if possible for added safety.\n If you are uncomfortable changing a tire yourself, call a roadside assistance service.\n Spare tires are often temporary; they may have speed or distance limitations. Check your owner's manual.\n\n\n\n\nAdditional Notes:\n\n\n If you have a run-flat tire, you may be able to drive a short distance to a repair shop. Check your owner's manual.\n After changing the tire, get your flat tire repaired or replaced as soon as possible.\n A spare tire may not be suitable for all driving conditions (e.g., high speeds, winter driving).  Drive cautiously."
+    },
+    {
+        "user_input": "hello",
+        "bot_response": "Hello!  I'm here to help with your roadside assistance needs.  Please describe your vehicle problem so I can assist you."
+    }
+]
